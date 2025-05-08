@@ -1,0 +1,24 @@
+{
+  "name": "backend-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/espantapajaroproyecto/backend-examples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/espantapajaroproyecto/backend-examples/issues"
+  },
+  "homepage": "https://github.com/espantapajaroproyecto/backend-examples#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1692.0",
+    "uuid": "^11.1.0"
+  }
+}
